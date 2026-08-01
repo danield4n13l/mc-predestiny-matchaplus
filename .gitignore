@@ -1,0 +1,8 @@
+# Folders
+.DS_Store
+.vscode
+Packwiz/packwiz
+
+# Files
+*.jar
+*.exe

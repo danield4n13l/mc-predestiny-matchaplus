@@ -1,0 +1,13 @@
+name = "Shoulder Surfing Reloaded"
+filename = "ShoulderSurfing-Fabric-26.2-5.0.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kepjj2sy/versions/q46r8WX3/ShoulderSurfing-Fabric-26.2-5.0.7.jar"
+hash-format = "sha512"
+hash = "0fb2ffb9329de879ee3e1c92586344deffd7d557fb42bbcd55a7150fa88755ad24b111994ef435d9b12468d97718788ef24cad5e376215756e775250f0ba082f"
+
+[update]
+[update.modrinth]
+mod-id = "kepjj2sy"
+version = "q46r8WX3"

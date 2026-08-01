@@ -1,0 +1,13 @@
+name = "Random World Names"
+filename = "random-world-names-1.2.0+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TE51HZna/versions/ScjJ6V6A/random-world-names-1.2.0%2B26.1.jar"
+hash-format = "sha512"
+hash = "df54aa3f6468b6b481a999c74f83542d1f1b304bf1c97bb90597a469c9c93cbec5828f81430f029a8635bb2c2b8af13b5d8fa2274f985dd4448f3c34c6476edc"
+
+[update]
+[update.modrinth]
+mod-id = "TE51HZna"
+version = "ScjJ6V6A"

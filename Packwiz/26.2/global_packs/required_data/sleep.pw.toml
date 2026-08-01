@@ -1,0 +1,13 @@
+name = "Sleep"
+filename = "Sleep-v4.3.18.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WTzuSu8P/versions/1OCPT7Uf/Sleep-v4.3.18.zip"
+hash-format = "sha512"
+hash = "d649f3af212c3abc601f4fe15684271957da5235d0c9395a8413939fab918f11c8f2748af2f14aaa9786f4a32a9175ca3caa099eda0b957bb7b06408faae670a"
+
+[update]
+[update.modrinth]
+mod-id = "WTzuSu8P"
+version = "1OCPT7Uf"

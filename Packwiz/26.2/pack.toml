@@ -1,0 +1,17 @@
+name = "PreDestiny Base"
+author = "d3st1ny"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "48dea135e0039589f7054e92b8140b5e72c4f9df979e8dcbeef5c87f7a0f4de2"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"
+
+[options]
+acceptable-game-versions = ["26.1"]
+datapack-folder = "global_packs/required_data"
