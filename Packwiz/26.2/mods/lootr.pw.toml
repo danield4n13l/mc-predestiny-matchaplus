@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/EltpO5cN/versions/k00AgeE7/lootr-fabric-26.
 hash-format = "sha512"
 hash = "7763f8ba03978f9e967980f4f35deba13cb90348a2a0e8cad3145a7ab1cf2fad6349784f0647aeadb4ffa56ee222aca415008e2751ab913b35c0d302002e4375"
 
+[option]
+optional = true
+description = "Lootr is a mod that allows you to convert basic lootable containers into player-unique containers in the world. It is currently MUTUALLY EXCLUSIVE with PK Waystones!"
+
 [update]
 [update.modrinth]
 mod-id = "EltpO5cN"

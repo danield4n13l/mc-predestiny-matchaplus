@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/UKUcgltR/versions/mEHHjLao/pk_waystones_V.3
 hash-format = "sha512"
 hash = "841b68849c3e2eda25bde00f340cc99abf778cf769f841e4453b9edd2a3523984846a1c06cd1e278791038656b6abde68f8bd943f71944fe78e7dbf150a6d4e3"
 
+[option]
+optional = true
+description = "PK Waystones is a mod that adds vanilla-friendly waystones to the game. It is currently MUTUALLY EXCLUSIVE with Lootr!"
+
 [update]
 [update.modrinth]
 mod-id = "UKUcgltR"

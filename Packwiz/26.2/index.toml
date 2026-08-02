@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "datapacks/waystones-data-pack.pw.toml"
-hash = "844bf6206200f74341586099681ed4017b0e223e4e7f9e28b747e305815fed53"
+hash = "6af80a55317f9a5df23fdc3ac1096f6f2613dd05e6d592212cffef7900537633"
 metafile = true
 
 [[files]]
@@ -433,8 +433,8 @@ hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
-file = "mods/falling-tree-datapack.pw.toml"
-hash = "3ba26a3b3c7e49e6e8028a2c337a399163b597ddda21c371f6f74eff1ebfabfb"
+file = "mods/fallingtree.pw.toml"
+hash = "d4f6289a84d717157a5fd44fb9c4968f8c34d4430cc7970968b24d3d411998fb"
 metafile = true
 
 [[files]]
@@ -453,8 +453,8 @@ hash = "40e90e4fcf96b43a76dd16f48d5fdb0b91d74dcf60fb34a39e58a5bdfb2abf72"
 metafile = true
 
 [[files]]
-file = "mods/held-item-info.pw.toml"
-hash = "e0718ec44f9abe7e4fa8b4122478158db98b8dc2376a98c7382e0298e3b5bfa6"
+file = "mods/held-item-tooltips.pw.toml"
+hash = "b79b53ce8e5c66b90c7a58d3f7e6311c4749cbf44ef04bc1e574ea047f1061e1"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "8c9db79e5a51f73f784c9c807976e9f2cf9e26d9f7e28e590b65ab9a952ed269"
+hash = "503a4b6fc3aed85fec8dc6617f7a5e852126939a10e9bc33838d6646f118afa9"
 metafile = true
 
 [[files]]

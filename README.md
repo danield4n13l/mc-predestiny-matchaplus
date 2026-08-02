@@ -9,17 +9,17 @@ A Fabric modpack that builds on the PreDestiny Base experience with a more explo
 - **Matcha Flavoured** by *klei_wright*. An awesome datapack that revamps and modifies Minecraft's progression to eliminate mindless mob-grinding and optimalization while encouraging players to explore and tinker with the world.
 
 - **Performance and optimization:** C2ME Fabric and other backend-oriented tweaks
-- **Quality of life:** Better Recipe Book (Extended), Bundle Upgrade, Easy Shulker Boxes, Held Item Info, Item Swapper❗, Stack to Nearby Chests, and Visual Workbench
+- **Quality of life:** Better Recipe Book (Extended), Bundle Upgrade, Easy Shulker Boxes, Held Item Tooltips, Item Swapper⚠️, Stack to Nearby Chests, and Visual Workbench
 - **Combat and gameplay:** Better Combat, Cozy Critters, Veinminer, Punchy FPA, and Plane Advancements
-- **Exploration and progression:** Falling Tree Datapack, Lootr, Mapstitch, Spyglass Astronomy, and Simple Voice Chat
+- **Exploration and progression:** Falling Tree, Lootr⚠️, Mapstitch, Spyglass Astronomy, and Simple Voice Chat❗
 - **Visuals and interface:** Essential❗, Jade, Inventory Particles, Status Effect Bars, Hide Experimental Warning, and other UI/visual enhancements
 - **Utility and support:** Diagonal Fences, and Diagonal Walls
 
-## Current Limitations, Optional Mods (❗)
+## Current Limitations (⚠️), Optional Mods (❗)
 
-- > [!WARNING]
-  > **Controlify** and **ItemSwapper** are MUTUALLY EXCLUSIVE as of 2026.08.02. Choose only one!
-- **Essential mod** and **Simple Voice Chat** are recommended for seamless multiplayer experience and positional voice chat support.
+- ⚠️ **Controlify** and **ItemSwapper** are MUTUALLY EXCLUSIVE as of 2026.08.02. Choose only one!
+- ⚠️ **PK Waystones** and **Lootr** are MUTUALLY EXCLUSIVE as of 2026.08.02. Choose only one!
+- ❗ **Essential mod** and **Simple Voice Chat** are recommended for seamless multiplayer experience and positional voice chat support.
 
 ## Attribution
 
