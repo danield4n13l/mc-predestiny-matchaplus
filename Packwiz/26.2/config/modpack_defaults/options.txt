@@ -64,7 +64,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/Chat Reporting Helper.zip","file/SodiumTranslations.zip","file/vanilla-refresh-1.4.31.zip","file/Matcha_Flavoured_1_03.zip","punchy:punchy","file/FreshAnimations_v1.10.5.zip","file/FA+Player-v1.1.zip","file/Modded Swords x Punchy! 1.21.1 v1.3.2.zip","file/Waystones_RP_V2.8.zip"]
+resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/Chat Reporting Helper.zip","file/SodiumTranslations.zip","file/Matcha_Flavoured_1_03.zip","punchy:punchy","file/FreshAnimations_v1.10.5.zip","file/FA+Player-v1.1.zip","file/Modded Swords x Punchy! 1.21.1 v1.3.2.zip","file/vanilla-refresh-1.4.31.zip","file/Waystones_RP_V2.8.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

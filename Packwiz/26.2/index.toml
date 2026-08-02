@@ -210,7 +210,7 @@ hash = "de7bab7e81dbdce1b9636115a1df9024c5fb23e7dc75940825b2176e9d3f590b"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "1a1b53b681902762c387c90e487e68dfe98858ea0fdaaf9107762d73f85c330a"
+hash = "dbb8a9c5dd333f60c7ebd191973ebf878fb440dec88e6349c07389cb3370c4b2"
 
 [[files]]
 file = "datapacks/matcha-flavoured.pw.toml"
