@@ -1,17 +1,17 @@
 name = "PreDestiny Matcha+"
 author = "d3st1ny"
-version = "1.0.0"
+version = "1.1.0-fabric-26.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2f7e5da76ae047a3824bf500098d27e1bb3d415a3429ee5288adc4becc0eb161"
+hash = "d05fcde1788bb9958d12728e4581ce51c77a7cd7c0c995be10ea41e313012177"
 
 [versions]
 fabric = "0.19.3"
 minecraft = "26.2"
 
 [options]
-acceptable-game-versions = ["26.1", "1.21.1"]
+acceptable-game-versions = ["26.1"]
 datapack-folder = "datapacks"

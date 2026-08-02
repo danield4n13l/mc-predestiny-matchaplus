@@ -1,0 +1,13 @@
+name = "Waystones RP"
+filename = "Waystones_RP_V2.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1D9ModDm/versions/9D9eYH3s/Waystones_RP_V2.8.zip"
+hash-format = "sha512"
+hash = "0313d6882a1dba7dd551cdec85a5f10dd5d8bd52d98fef32bd1d1b4543d975c7a82de0f111234cc9914cc46a55ad0d8ac50522e7a3e38bcc209de86200df45d4"
+
+[update]
+[update.modrinth]
+mod-id = "1D9ModDm"
+version = "9D9eYH3s"

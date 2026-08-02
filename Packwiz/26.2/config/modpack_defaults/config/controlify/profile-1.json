@@ -32,6 +32,12 @@
       },
       "controlify:gyro_button": {
         "axis": "controlify:axis/left_trigger"
+      },
+      "fabric-key-binding-api-v1:key.mute_microphone": {
+        "button": "controlify:button/misc_1"
+      },
+      "voicechat:mute_microphone": {
+        "button": "controlify:button/misc_1"
       }
     },
     "sensitivity": {

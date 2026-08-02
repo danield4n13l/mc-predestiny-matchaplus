@@ -6,7 +6,7 @@ hash = "4ad378519e43ab82c3ab3fe390f765e1486551397ade718bbb441039cc39dcb6"
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "c6a5e7b076cf584637343e50d0982d169eaafdd97f47093f9ed0dac548ef7af1"
+hash = "368d70a9425675aa49d067a51fbc0724f4b18a7fa3b417e337050d6b3de83669"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -86,7 +86,7 @@ hash = "7e47792df746917052dfbcc554588fe7fc775d0f710a624adb952d2292fdc2ab"
 
 [[files]]
 file = "config/modpack_defaults/config/controlify/profile-1.json"
-hash = "5f52477f111d30c6e6e927e7321bdcd57515ea8ce5cb60dc5baf75dc9259b74f"
+hash = "57dc3f2e711b2f1febb5698a46477672c8275392a2d8904674b3a44e39980a2b"
 
 [[files]]
 file = "config/modpack_defaults/config/cwb.json"
@@ -205,8 +205,12 @@ file = "config/modpack_defaults/icon.png"
 hash = "bf87f57f2dca13d7f5ed256e815fefa8cff6a1ac748038c96a155a56345caf7f"
 
 [[files]]
+file = "config/modpack_defaults/options.amecs.key_modifiers.txt"
+hash = "de7bab7e81dbdce1b9636115a1df9024c5fb23e7dc75940825b2176e9d3f590b"
+
+[[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "cf4eb9d332c204569d308f7f8c1acd0c11b3a92eb8cd4f6152a83b28c4bd64f5"
+hash = "1a1b53b681902762c387c90e487e68dfe98858ea0fdaaf9107762d73f85c330a"
 
 [[files]]
 file = "datapacks/matcha-flavoured.pw.toml"
@@ -216,6 +220,11 @@ metafile = true
 [[files]]
 file = "datapacks/vanilla-refresh.pw.toml"
 hash = "2fc7ae8086c0b7a5691bea59b3d9f78bbf8625d7940b968e4418e5e9b9dd9332"
+metafile = true
+
+[[files]]
+file = "datapacks/waystones-data-pack.pw.toml"
+hash = "844bf6206200f74341586099681ed4017b0e223e4e7f9e28b747e305815fed53"
 metafile = true
 
 [[files]]
@@ -270,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-nether-map.pw.toml"
-hash = "7c106da27e6221d9c1fb8cfa36b99ab73ae6770b5e2d2d235768ca0429beed6e"
+hash = "6a3d8aac82514e484f529373b6bc9d1fca8c7af4a37e5329e3ca71dc2b204b66"
 metafile = true
 
 [[files]]
@@ -335,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "404b2ef9032434f6b0c7d70920c557f06b774a0455325481e1b7304eaf03934e"
+hash = "a87be91439cbbc4dff2db63b9efe0e6d1e054eb0e89c5e5c647d6f6f4152b35a"
 metafile = true
 
 [[files]]
@@ -736,6 +745,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/vanilla-refresh.pw.toml"
 hash = "2fc7ae8086c0b7a5691bea59b3d9f78bbf8625d7940b968e4418e5e9b9dd9332"
+metafile = true
+
+[[files]]
+file = "resourcepacks/waystones-rp.pw.toml"
+hash = "76e87530722157c79d30f485a161be116cbc9680d2f364c91aca17cf5cbf5fcf"
 metafile = true
 
 [[files]]
