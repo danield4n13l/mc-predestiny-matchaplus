@@ -1,0 +1,18 @@
+name = "Essential Mod"
+filename = "Essential_1-4-1-1_fabric_26-2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/F6WKM1HY/Essential_1-4-1-1_fabric_26-2.jar"
+hash-format = "sha512"
+hash = "65859309671b7c750d90f841477bfcea0e1461bd5b0e0ab280fc90cda0a89b6977b5ad83c479f6145519185a5a9578d0bb10ef97b197209a708c1cfbbade87da"
+
+[option]
+optional = true
+default = false
+description = "Enhance your Minecraft with one simple mod. Host worlds for free, chat with friends, and so much more!"
+
+[update]
+[update.modrinth]
+mod-id = "k2ZPuTBm"
+version = "F6WKM1HY"

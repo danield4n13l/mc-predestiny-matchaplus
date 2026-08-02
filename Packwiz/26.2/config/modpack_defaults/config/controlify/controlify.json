@@ -1,0 +1,28 @@
+{
+  "schema_version": 7,
+  "global": {
+    "virtual_mouse_screens": [
+      "dev.lambdaurora.lambdynlights.gui.SettingsScreen",
+      "net.minecraft.client.gui.screens.inventory.AbstractContainerScreen",
+      "me.pajic.mapstitch.worldmap.WorldMapScreen",
+      "net.neoforged.neoforge.client.gui.ConfigurationScreen$ConfigurationSectionScreen",
+      "com.terraformersmc.modmenu.gui.ModsScreen",
+      "me.shedaniel.clothconfig2.gui.ClothConfigScreen",
+      "net.minecraft.client.gui.screens.ChatScreen"
+    ],
+    "mixed_input": false,
+    "out_of_focus_input": false,
+    "reach_around": "off",
+    "allow_server_rumble": true,
+    "extra_ui_sounds": true,
+    "notify_low_battery": true,
+    "ingame_button_guide_scale": 1.0,
+    "use_enhanced_steam_deck_driver": true,
+    "keyboard_movement": false,
+    "analogue_movement_whitelist": [],
+    "seen_servers": [],
+    "show_splitscreen_ad": true
+  },
+  "devices": {
+  }
+}

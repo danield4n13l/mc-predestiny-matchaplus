@@ -1,0 +1,90 @@
+{
+  "schema_version": 7,
+  "name": "Default (d3st1ny DS5)",
+  "controller_uid": "f1b7f602217449811c98b4fdc0e2f190",
+  "generic": {
+    "auto_jump": true,
+    "toggle_sprint": true,
+    "toggle_sneak": true,
+    "disable_fly_drifting": false,
+    "guide": {
+      "verbosity": "full",
+      "show_ingame_guide": true,
+      "ingame_guide_bottom": true,
+      "show_screen_guides": true,
+      "ingame_gui_scale": 0,
+      "screen_gui_scale": 0
+    },
+    "keyboard": {
+      "show_on_screen_keyboard": true,
+      "hint_cursor": true,
+      "hint_command_suggester": false,
+      "hint_sign_line": true
+    }
+  },
+  "input": {
+    "bindings": {
+      "fabric-key-binding-api-v1:key.brbe.pin": {
+        "button": "controlify:button/left_stick"
+      },
+      "controlify:hotbar_item_select_radial": {
+        "button": "controlify:button/touchpad_1"
+      },
+      "controlify:gyro_button": {
+        "axis": "controlify:axis/left_trigger"
+      }
+    },
+    "sensitivity": {
+      "horizontal": 1.0,
+      "vertical": 0.9,
+      "horizontal_invert": false,
+      "vertical_invert": false,
+      "virtual_mouse": 1.2499998,
+      "reduce_aiming": true,
+      "look_curve": "standard",
+      "is_lce": false,
+      "default_deadzone": 0.12
+    },
+    "radial_menu": {
+      "actions": [
+        "controlify:toggle_hud_visibility",
+        "fabric-key-binding-api-v1:key.autorun.toggle",
+        "fabric-key-binding-api-v1:mapstitch.key.open_world_map",
+        "fabric-key-binding-api-v1:key.amecs.toggle_auto_jump",
+        "controlify:toggle_debug_menu",
+        "controlify:pick_block",
+        "controlify:take_screenshot",
+        "controlify:show_player_list"
+      ],
+      "button_focus_timeout_ticks": 20
+    },
+    "button_activation_threshold": 0.5,
+    "keep_default_bindings": false
+  },
+  "rumble": {
+    "enabled": true,
+    "strengths": {
+      "controlify:gui": 0.74999994,
+      "controlify:interaction": 0.9,
+      "controlify:player": 0.74999994
+    }
+  },
+  "hd_haptic": {
+    "enabled": true
+  },
+  "gyro": {
+    "look_sensitivity": 0.2,
+    "relative_mode": false,
+    "invert_pitch": false,
+    "invert_yaw": false,
+    "button_mode": "on",
+    "yaw_mode": "yaw",
+    "flick_stick": false
+  },
+  "bluetooth_device": {
+    "dont_show_warning": false
+  },
+  "dualsense": {
+    "trigger_effects": true
+  }
+}

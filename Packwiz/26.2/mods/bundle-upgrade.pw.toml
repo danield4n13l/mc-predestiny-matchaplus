@@ -1,0 +1,13 @@
+name = "Bundle Upgrade"
+filename = "BundleUpgrade-v26.2.0-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4GmQWkZz/versions/swuSlvGL/BundleUpgrade-v26.2.0-mc26.2.x-Fabric.jar"
+hash-format = "sha512"
+hash = "a2040e0493927cac41795e4ddb924b3e862be0ad74bae1ad6b22f178c7acec8572e2d7cbd7cb8c0ad0e62880dbdbd20119a7b68e063a5f410e5ab4d4e57412c0"
+
+[update]
+[update.modrinth]
+mod-id = "4GmQWkZz"
+version = "swuSlvGL"

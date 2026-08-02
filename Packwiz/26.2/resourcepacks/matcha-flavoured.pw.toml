@@ -1,0 +1,13 @@
+name = "Matcha Flavoured"
+filename = "Matcha_Flavoured_1_03.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QI0EmgZ1/versions/2OaIqKKy/Matcha_Flavoured_1_03.zip"
+hash-format = "sha512"
+hash = "46e59fba4915089dfa742e9a3147e879ba0744be9328871d67ac92e7df250847088c44c2682ab58d64fe390e16b0c97efa4039a429e852af16dcf4b2419f5a2a"
+
+[update]
+[update.modrinth]
+mod-id = "QI0EmgZ1"
+version = "2OaIqKKy"

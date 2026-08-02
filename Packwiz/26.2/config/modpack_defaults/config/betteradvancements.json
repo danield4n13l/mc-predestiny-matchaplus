@@ -8,13 +8,13 @@
   "orderTabsAlphabetically": false,
   "uiScaling": 100,
   "defaultZoom": 1.0,
-  "criteriaDetail": "ALL",
-  "criteriaDetailRequiresShift": true,
+  "criteriaDetail": "Default",
+  "criteriaDetailRequiresShift": false,
   "colorWholeCriteriaText": false,
-  "addInventoryButton": false,
+  "addInventoryButton": true,
   "defaultDrawDirectLines": false,
   "defaultHideLines": false,
   "defaultCompletedLineColor": "#FFFFFF",
-  "defaultUncompletedLineColor": "#FFFFFF",
+  "defaultUncompletedLineColor": "#999999",
   "onlyUseAboveAdvancementTabs": false
 }

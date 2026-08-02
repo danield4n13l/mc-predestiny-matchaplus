@@ -1,0 +1,13 @@
+name = "Plane Advancements"
+filename = "plane_advancements-1.6-mc26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V1smGrYI/versions/tlzHQ25y/plane_advancements-1.6-mc26.1.jar"
+hash-format = "sha512"
+hash = "431751ced8f5fe5f929ef2a5705cd2b8151dd0b8a804f9de641022e6b19c34c17d30b16c54d1f28b07f8379a4636f8c486f35dab391de8f5b066100890d19ecd"
+
+[update]
+[update.modrinth]
+mod-id = "V1smGrYI"
+version = "tlzHQ25y"

@@ -1,17 +1,25 @@
-# PreDestiny Base
+# PreDestiny Matcha+
 
-A collection of baseline must-have mods to enhance and even-out Java Edition gameplay, heavily inspired by **Fabulously Optimized (FO)** [<https://download.fo/>]. Go check it out!
-
-Subsequent modpacks made by me (all the *PreDestiny* packs) are based on this modpack.
+A Fabric modpack that builds on the PreDestiny Base experience with a more exploratory, less grind-heavy progression style powered by Matcha Flavoured.
 
 ## Included features
 
-- **Performance and optimization:** Sodium, Lithium, Dynamic FPS, More Culling, ImmediatelyFast, BetterGrassify, Dynamic Crosshair, and FWA
-- **Better visuals:** Iris, Entity Model Features, Entity Texture Features, Animatica, Continuity, Visuality, Skyboxify, Better Clouds, and AmbientSounds
-- **Quality-of-life improvements:** BetterAdvancements, BetterF3, Language Reload, Zoomify, Chat Patches, Advancement Plaques, Autorun, Chat Heads, Inventory Management, Better Nether Map, Better Stats, Random World Names, Shoulder Surfing Reloaded, Visual Keymap, and Resourcify
-- **Stability, compatibility, and extras:** Crash Assistant, Forge Config API Port, NoChatReports, config helpers, Iceberg, Puzzles Lib, TCDCommons, Controlify, CreativeCore, Melody, MRU, Overflowing Bars, Sound, Sound Physics Remastered, Cherished Worlds, and the Vanilla Refresh resource pack plus Sleep datapack support
+- All the baseline mods and resources in the **PreDestiny Base** pack
 
-This pack is designed to be a baseline for the packs I use. These mods should make the game feel smoother, cleaner, and more convenient to play (at least for me) akin to my preferences.
+- **Matcha Flavoured** by *klei_wright*. An awesome datapack that revamps and modifies Minecraft's progression to eliminate mindless mob-grinding and optimalization while encouraging players to explore and tinker with the world.
+
+- **Performance and optimization:** C2ME Fabric and other backend-oriented tweaks
+- **Quality of life:** Better Recipe Book (Extended), Bundle Upgrade, Easy Shulker Boxes, Held Item Info, Item Swapper❗, Stack to Nearby Chests, and Visual Workbench
+- **Combat and gameplay:** Better Combat, Cozy Critters, Veinminer, Punchy FPA, and Plane Advancements
+- **Exploration and progression:** Falling Tree Datapack, Lootr, Mapstitch, Spyglass Astronomy, and Simple Voice Chat
+- **Visuals and interface:** Essential❗, Jade, Inventory Particles, Status Effect Bars, Hide Experimental Warning, and other UI/visual enhancements
+- **Utility and support:** Diagonal Fences, and Diagonal Walls
+
+## Current Limitations, Optional Mods (❗)
+
+- > [!WARNING]
+  > **Controlify** and **ItemSwapper** are MUTUALLY EXCLUSIVE as of 2026.08.02. Choose only one!
+- **Essential mod** and **Simple Voice Chat** are recommended for seamless multiplayer experience and positional voice chat support.
 
 ## Attribution
 

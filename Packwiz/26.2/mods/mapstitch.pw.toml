@@ -1,0 +1,13 @@
+name = "MapStitch"
+filename = "mapstitch-1.0.12+26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/etdHQJ0B/versions/YiqPTCwZ/mapstitch-1.0.12%2B26.2-fabric.jar"
+hash-format = "sha512"
+hash = "87f8a2a5885d8709d67e909019b69a93aaa3e21d4154fc9562d6c63d75a33f973035067e2e751a1529be63a19b23b9e028aab179e5d4c17f641b5f1b56b923ee"
+
+[update]
+[update.modrinth]
+mod-id = "etdHQJ0B"
+version = "YiqPTCwZ"
