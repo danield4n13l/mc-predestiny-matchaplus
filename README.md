@@ -4,9 +4,9 @@ A Fabric modpack that builds on the PreDestiny Base experience with a more explo
 
 ## Included features
 
-- All the baseline mods and resources in the **PreDestiny Base** pack
+- All the baseline mods and resources in the [**PreDestiny Base**](https://modrinth.com/modpack/predestiny-base) pack
 
-- **Matcha Flavoured** by *klei_wright*. An awesome datapack that revamps and modifies Minecraft's progression to eliminate mindless mob-grinding and optimalization while encouraging players to explore and tinker with the world.
+- [**Matcha Flavoured**](https://modrinth.com/datapack/matcha-flavoured) by *klei_wright*. An awesome datapack that revamps and modifies Minecraft's progression to eliminate mindless mob-grinding and optimalization while encouraging players to explore and tinker with the world.
 
 - **Performance and optimization:** C2ME Fabric and other backend-oriented tweaks
 - **Quality of life:** Better Recipe Book (Extended), Bundle Upgrade, Easy Shulker Boxes, Held Item Tooltips, Item Swapper⚠️, Stack to Nearby Chests, and Visual Workbench
